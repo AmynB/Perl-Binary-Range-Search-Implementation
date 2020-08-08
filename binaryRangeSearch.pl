@@ -5,7 +5,7 @@ no warnings 'recursion';
 use Data::Dumper;
 
 #************************************************************************************************
-#Author: abains-src                                                                           *
+#Author: ab-src                                                                       *
 #Purpose: Range search algorithm exercise with references                                       *
 #************************************************************************************************
 
